@@ -12,4 +12,4 @@ This is the research and development repository related to my teaching in the [A
 
 [MediaPipeFaceMeshTOP](http://www.magicandlove.com/blog/2021/05/31/mediapipe-in-touchdesigner-4/) - a demonstration of the Face Mesh function in the MediaPipe solutions.
 
-[MediaPipeFaceMeshSOP]() - a more advanced version of the Face Mesh example. It will generate a 3D mesh from a Script SOP using the face mesh data from the MediaPipe soluitons.
+[MediaPipeFaceMeshSOP](http://www.magicandlove.com/blog/2021/05/31/mediapipe-in-touchdesigner-5/) - a more advanced version of the Face Mesh example. It will generate a 3D mesh from a Script SOP using the face mesh data from the MediaPipe soluitons.
