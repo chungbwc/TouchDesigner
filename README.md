@@ -9,3 +9,5 @@ This is the research and development repository related to my teaching in the [A
 [MediaPipeFaceDetection](http://www.magicandlove.com/blog/2021/05/24/mediapipe-in-touchdesigner-2/) - example of using the MediaPipe face detection and drawing function.
 
 [FaceDetectionScriptCHOP](http://www.magicandlove.com/blog/2021/05/24/mediapipe-in-touchdesigner-3/) - a functional prototype using MediaPipe for face detection in TouchDesigner.
+
+[MediaPipeFaceMeshTOP](http://www.magicandlove.com/blog/2021/05/31/mediapipe-in-touchdesigner-4/) - a demonstration of the Face Mesh function in the MediaPipe solutions.
