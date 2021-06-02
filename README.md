@@ -13,3 +13,9 @@ This is the research and development repository related to my teaching in the [A
 [MediaPipeFaceMeshTOP](http://www.magicandlove.com/blog/2021/05/31/mediapipe-in-touchdesigner-4/) - a demonstration of the Face Mesh function in the MediaPipe solutions.
 
 [MediaPipeFaceMeshSOP](http://www.magicandlove.com/blog/2021/05/31/mediapipe-in-touchdesigner-5/) - a more advanced version of the Face Mesh example. It will generate a 3D mesh from a Script SOP using the face mesh data from the MediaPipe soluitons.
+
+[MediaPipeHandTOP]() - a simple demonstration of the hand tracking solution from MediaPipe with the display in a Script TOP.
+
+[MediaPipeHandCHOP]() - an example to extract the hand tracking details in a Script CHOP. It only uses the Index Finger Tip for interaction design.
+
+[MediaPipeHandCHOP2]() - another example to expose all the finger details in a Script CHOP. It aligns the circle TOP to each of the finger tip.
