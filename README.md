@@ -16,6 +16,6 @@ This is the research and development repository related to my teaching in the [A
 
 [MediaPipeHandTOP](http://www.magicandlove.com/blog/2021/06/02/mediapipe-in-touchdesigner-6/) - a simple demonstration of the hand tracking solution from MediaPipe with the display in a Script TOP.
 
-[MediaPipeHandCHOP]() - an example to extract the hand tracking details in a Script CHOP. It only uses the Index Finger Tip for interaction design.
+[MediaPipeHandCHOP](http://www.magicandlove.com/blog/2021/06/02/mediapipe-in-touchdesigner-7/) - an example to extract the hand tracking details in a Script CHOP. It only uses the Index Finger Tip for interaction design.
 
 [MediaPipeHandCHOP2]() - another example to expose all the finger details in a Script CHOP. It aligns the circle TOP to each of the finger tip.
