@@ -19,3 +19,7 @@ This is the research and development repository related to my teaching in the [A
 [MediaPipeHandCHOP](http://www.magicandlove.com/blog/2021/06/02/mediapipe-in-touchdesigner-7/) - an example to extract the hand tracking details in a Script CHOP. It only uses the Index Finger Tip for interaction design.
 
 [MediaPipeHandCHOP2](http://www.magicandlove.com/blog/2021/06/02/mediapipe-in-touchdesigner-8/) - another example to expose all the finger details in a Script CHOP. It aligns the circle TOP to each of the finger tip.
+
+[MediaPipePoseTOP]() - a simple example to illustrate the usage of the pose tracking solution in MediaPipe with a Script TOP.
+
+[MediaPipePoseCHOP]() - an example of pose tracking in MediaPipe with a Script CHOP, showing the pose landmarks details.
