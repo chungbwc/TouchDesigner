@@ -23,3 +23,7 @@ This is the research and development repository related to my teaching in the [A
 [MediaPipePoseTOP](http://www.magicandlove.com/blog/2021/06/03/mediapipe-in-touchdesigner-9/) - a simple example to illustrate the usage of the pose tracking solution in MediaPipe with a Script TOP.
 
 [MediaPipePoseCHOP](http://www.magicandlove.com/blog/2021/06/03/mediapipe-in-touchdesigner-10/) - an example of pose tracking in MediaPipe with a Script CHOP, showing the pose landmarks details.
+
+[FaceDetectionDlib1]() - another face detection example using the [Dlib]() in a Script CHOP.
+
+
